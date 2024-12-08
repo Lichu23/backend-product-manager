@@ -1,6 +1,6 @@
 <h1>Backend of a product manager project creating a REST API</h1>
 <li>Use Express, Node, Typescript, Jest and Sequelize</li>
-<li>Create a server with Express</li> 
+<li>Create the server with Express</li> 
 <li>Create database in Render using postgreSQL</li> 
 <li>Create ORM with Sequealize</li> 
 <li>Test the requests in Postman.</li>
